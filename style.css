@@ -1,1 +1,25 @@
-ghfghfgh
+body {
+    background-color: #C6CA53;
+  }
+
+  #blackbody {
+    border-radius: 250px;
+    background: #0A0903;
+    padding: 20px;
+    width: 1000px;
+    height: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#pinkheader {
+    border-radius: 250px;
+    background: #C2948A;
+    padding: 20px;
+    width: 1250px;
+    height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
