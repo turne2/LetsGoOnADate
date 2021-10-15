@@ -22,6 +22,22 @@ body {
     margin-top: 60px;
 }
 
+#quote {
+    
+     text-align: center;
+     vertical-align: middle;
+     color: white;
+     margin-top: 60px;
+
+}
+#bttn {
+    
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 50%;
+    margin-right: 50%;
+
+}
 #selection {
 
     text-align: center;
@@ -47,3 +63,12 @@ body {
     margin-top: 10px;
 }
 
+#response {
+    color: white;
+}
+
+img {
+
+    max-width: 40%;
+    height:auto;
+}
